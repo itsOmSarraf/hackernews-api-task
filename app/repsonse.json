@@ -1,0 +1,767 @@
+{
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "luispa"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Most of Europe is glowing pink under the aurora"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.foto-webcam.eu/webcam/lucknerhaus/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_luispa",
+        "story_40324179",
+        "front_page"
+      ],
+      "author": "luispa",
+      "children": [40324286, 40324300, 40324315, 40324332, 40324338, 40324340, 40324354, 40324384, 40324386, 40324400, 40324405, 40324420, 40324421, 40324427, 40324430, 40324444, 40324466, 40324473, 40324476, 40324488, 40324517, 40324522, 40324564, 40324573, 40324575, 40324585, 40324622, 40324634, 40324641, 40324670, 40324684, 40324687, 40324729, 40324776, 40324779, 40324780, 40324816, 40324820, 40324906, 40324909, 40324911, 40324959, 40324966, 40325001, 40325117, 40325159, 40325165, 40325213, 40325214, 40325222, 40325285, 40325301, 40325359, 40325451, 40325490, 40325574, 40325592, 40325653, 40325655, 40325669, 40325898, 40325914, 40325918, 40325949, 40326432, 40326440, 40326528, 40326531, 40326540, 40326549, 40326639, 40326993, 40327056, 40327119, 40327150, 40327189, 40327195, 40327283, 40327288, 40327299, 40327315, 40327615, 40327686, 40327803, 40328063, 40328155, 40328193],
+      "created_at": "2024-05-10T21:59:03Z",
+      "created_at_i": 1715378343,
+      "num_comments": 305,
+      "objectID": "40324179",
+      "points": 1172,
+      "story_id": 40324179,
+      "title": "Most of Europe is glowing pink under the aurora",
+      "updated_at": "2024-05-11T14:46:28Z",
+      "url": "https://www.foto-webcam.eu/webcam/lucknerhaus/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "fgblanch"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Jim Simons has died"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_fgblanch",
+        "story_40320406",
+        "front_page"
+      ],
+      "author": "fgblanch",
+      "children": [40320517, 40320518, 40320522, 40320539, 40320551, 40320557, 40320590, 40320593, 40320595, 40320608, 40320634, 40320656, 40320660, 40320672, 40320693, 40320695, 40320706, 40320708, 40320786, 40320798, 40320835, 40320896, 40320912, 40321124, 40321143, 40321213, 40321239, 40321246, 40321255, 40321313, 40321323, 40321346, 40321460, 40321825, 40321925, 40321934, 40321953, 40321992, 40322086, 40322113, 40322164, 40322260, 40322401, 40322465, 40322704, 40322941, 40322950, 40322954, 40322977, 40322997, 40323065, 40323632, 40323692, 40323787, 40323956, 40323996, 40324213, 40324234, 40324249, 40324274, 40324552, 40324556, 40324695, 40324999, 40325293, 40325460, 40325661, 40326405, 40326554, 40327613],
+      "created_at": "2024-05-10T15:51:01Z",
+      "created_at_i": 1715356261,
+      "num_comments": 294,
+      "objectID": "40320406",
+      "points": 1058,
+      "story_id": 40320406,
+      "title": "Jim Simons has died",
+      "updated_at": "2024-05-11T14:46:28Z",
+      "url": "https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "thedg"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hey HN, I wanted to show you a product a small team and I have been working on for 4 years. \u003Ca href=\"https://jam.dev\" rel=\"nofollow\"\u003Ehttps://jam.dev\u003C/a\u003E\u003Cp\u003EIt’s called Jam and it prevents product managers (like I used to be) from being able to create vague and un-reproducible bug tickets (like I used to create).\u003Cp\u003EIt’s actually really hard as a non-engineer to file useful bug tickets for engineers. Like, sometimes I thought I included a screenshot, but the important information the engineer needed was what was actually right outside the boundary of the screenshot I took. Or I'd write that something &quot;didn't work&quot; but the engineer wasn't sure if I meant that it returned an error or if it was unresponsive. So the engineer would be frustrated, I would be frustrated, and fixing stuff would slow to a halt while we went back and forth to clarify how to repro the issue over async Jira comments.\u003Cp\u003EIt’s actually pretty crazy that while so much has changed in how we develop software (heck, we have types in javascript now*), the way we capture and report bugs is just as manual and lossy as it was in the 1990’s. We can run assembly in the browser but there’s still no tooling to help a non-engineer show a bug to an engineer productively.\u003Cp\u003ESo that’s what Jam is. Dev tools + video in a link. It’s like a shareable HAR file synced to a video recording of the session. And besides video, you can use it to share an instant replay of a bug that just happened — basically a 30 second playback of the DOM as a video.\u003Cp\u003EWe’ve spent a lot of time adding in a ton of niceties, like Jam writes automatic repro steps for you, and Jam’s dev tools use the same keyboard shortcuts you’re used to in Chrome dev tools, and our team’s personal favorite: Jam parses GraphQL responses and pulls out mutation names and errors (which is important because GraphQL uses one endpoint for all requests and always returns a 200, meaning you usually have to sift through every GraphQL request when debugging to find the one you’re looking for)\u003Cp\u003EWe’re now 2 years in to the product being live and people have used Jam to fix more than 2 million bugs - which makes me so happy - but there’s still a ton to do. I wanted to open up for discussion here and get your feedback and opinions how can we make it even more valuable for you debugging?\u003Cp\u003EThe worst part of the engineering job is debugging and not even being able to repro the issue, it’s not even really engineering, it’s just a communication gap, one that we should be able to solve with tools. So yeah excited to get your feedback and hear your thoughts how we can make debugging just a little less frustrating.\u003Cp\u003E(Jam is free to use forever — there is a paid tier for features real companies would need, but we’re keeping a large free plan forever. We learned to build products at Cloudflare and free tier is in our ethos, both my co-founder and I and about half the team is ex-Cloudflare) and what we loved there is how much great feedback we’d get because the product was mostly  free to use. We definitely want to keep that going at Jam.)\u003Cp\u003EBy the way, we’re hiring engineers and if this is a problem that excites you, we’d love to chat: jam.dev/careers"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_thedg",
+        "story_40318542",
+        "show_hn",
+        "front_page"
+      ],
+      "author": "thedg",
+      "children": [40318544, 40319019, 40319060, 40319138, 40319195, 40319274, 40319304, 40319309, 40319515, 40319536, 40319707, 40319731, 40319752, 40319812, 40319831, 40319863, 40319918, 40319977, 40319997, 40320043, 40320107, 40320123, 40320178, 40320285, 40320312, 40320512, 40320533, 40320600, 40320883, 40320904, 40320961, 40321016, 40321226, 40321240, 40321260, 40321370, 40321479, 40321830, 40322023, 40322227, 40322534, 40322721, 40322835, 40322913, 40323111, 40323163, 40323169, 40323211, 40323426, 40323663, 40323714, 40324029, 40324058, 40324069, 40324098, 40324218, 40324256, 40324436, 40324583, 40324752, 40324927, 40325193, 40325325, 40325439, 40325475, 40325662, 40325839, 40325853, 40326295, 40326374, 40326570, 40327763, 40327820, 40328042, 40328373],
+      "created_at": "2024-05-10T13:08:38Z",
+      "created_at_i": 1715346518,
+      "num_comments": 194,
+      "objectID": "40318542",
+      "points": 797,
+      "story_id": 40318542,
+      "story_text": "Hey HN, I wanted to show you a product a small team and I have been working on for 4 years. \u003Ca href=\"https:&#x2F;&#x2F;jam.dev\" rel=\"nofollow\"\u003Ehttps:&#x2F;&#x2F;jam.dev\u003C/a\u003E\u003Cp\u003EIt’s called Jam and it prevents product managers (like I used to be) from being able to create vague and un-reproducible bug tickets (like I used to create).\u003Cp\u003EIt’s actually really hard as a non-engineer to file useful bug tickets for engineers. Like, sometimes I thought I included a screenshot, but the important information the engineer needed was what was actually right outside the boundary of the screenshot I took. Or I&#x27;d write that something &quot;didn&#x27;t work&quot; but the engineer wasn&#x27;t sure if I meant that it returned an error or if it was unresponsive. So the engineer would be frustrated, I would be frustrated, and fixing stuff would slow to a halt while we went back and forth to clarify how to repro the issue over async Jira comments.\u003Cp\u003EIt’s actually pretty crazy that while so much has changed in how we develop software (heck, we have types in javascript now*), the way we capture and report bugs is just as manual and lossy as it was in the 1990’s. We can run assembly in the browser but there’s still no tooling to help a non-engineer show a bug to an engineer productively.\u003Cp\u003ESo that’s what Jam is. Dev tools + video in a link. It’s like a shareable HAR file synced to a video recording of the session. And besides video, you can use it to share an instant replay of a bug that just happened — basically a 30 second playback of the DOM as a video.\u003Cp\u003EWe’ve spent a lot of time adding in a ton of niceties, like Jam writes automatic repro steps for you, and Jam’s dev tools use the same keyboard shortcuts you’re used to in Chrome dev tools, and our team’s personal favorite: Jam parses GraphQL responses and pulls out mutation names and errors (which is important because GraphQL uses one endpoint for all requests and always returns a 200, meaning you usually have to sift through every GraphQL request when debugging to find the one you’re looking for)\u003Cp\u003EWe’re now 2 years in to the product being live and people have used Jam to fix more than 2 million bugs - which makes me so happy - but there’s still a ton to do. I wanted to open up for discussion here and get your feedback and opinions how can we make it even more valuable for you debugging?\u003Cp\u003EThe worst part of the engineering job is debugging and not even being able to repro the issue, it’s not even really engineering, it’s just a communication gap, one that we should be able to solve with tools. So yeah excited to get your feedback and hear your thoughts how we can make debugging just a little less frustrating.\u003Cp\u003E(Jam is free to use forever — there is a paid tier for features real companies would need, but we’re keeping a large free plan forever. We learned to build products at Cloudflare and free tier is in our ethos, both my co-founder and I and about half the team is ex-Cloudflare) and what we loved there is how much great feedback we’d get because the product was mostly  free to use. We definitely want to keep that going at Jam.)\u003Cp\u003EBy the way, we’re hiring engineers and if this is a problem that excites you, we’d love to chat: jam.dev&#x2F;careers",
+      "title": "Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years",
+      "updated_at": "2024-05-11T14:45:43Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gnabgib"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Coronal mass ejection impact imminent, two more earth-directed CMEs"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gnabgib",
+        "story_40321821",
+        "front_page"
+      ],
+      "author": "gnabgib",
+      "children": [40321967, 40321994, 40322126, 40322158, 40322220, 40322244, 40322392, 40322481, 40322569, 40322702, 40322705, 40322808, 40322956, 40322959, 40322969, 40323093, 40323114, 40323218, 40323597, 40323789, 40323884, 40324463, 40324680, 40324918, 40325036, 40325070, 40325093, 40325300, 40326092, 40326967, 40327108, 40327228, 40327941, 40328158, 40328163],
+      "created_at": "2024-05-10T17:50:52Z",
+      "created_at_i": 1715363452,
+      "num_comments": 345,
+      "objectID": "40321821",
+      "points": 466,
+      "story_id": 40321821,
+      "title": "Coronal mass ejection impact imminent, two more earth-directed CMEs",
+      "updated_at": "2024-05-11T14:46:28Z",
+      "url": "https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "oidar"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Superfile – A fancy, pretty terminal file manager"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/MHNightCat/superfile"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_oidar",
+        "story_40318714",
+        "front_page"
+      ],
+      "author": "oidar",
+      "children": [40319664, 40319686, 40319770, 40319798, 40319876, 40319959, 40320068, 40320310, 40320325, 40320521, 40320651, 40320675, 40320691, 40320788, 40320857, 40321187, 40321253, 40321730, 40321866, 40322182, 40322475, 40323101, 40323173, 40323318, 40323536, 40323922, 40323990, 40324028, 40324271, 40324334, 40324402, 40324524, 40324527, 40325112, 40325575, 40325864, 40326117],
+      "created_at": "2024-05-10T13:27:20Z",
+      "created_at_i": 1715347640,
+      "num_comments": 180,
+      "objectID": "40318714",
+      "points": 363,
+      "story_id": 40318714,
+      "title": "Superfile – A fancy, pretty terminal file manager",
+      "updated_at": "2024-05-11T14:44:00Z",
+      "url": "https://github.com/MHNightCat/superfile"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "NonZeroSumJames"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Life-like particle system"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://ventrella.com/Clusters/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_NonZeroSumJames",
+        "story_40313264",
+        "front_page"
+      ],
+      "author": "NonZeroSumJames",
+      "children": [40319873, 40319930, 40319942, 40320494, 40320683, 40321103, 40322029, 40323190, 40323656, 40323746, 40323905, 40324060, 40324096, 40324733],
+      "created_at": "2024-05-09T21:47:13Z",
+      "created_at_i": 1715291233,
+      "num_comments": 22,
+      "objectID": "40313264",
+      "points": 262,
+      "story_id": 40313264,
+      "title": "Life-like particle system",
+      "updated_at": "2024-05-11T14:46:13Z",
+      "url": "https://ventrella.com/Clusters/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "todsacerdoti"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Thread: Tech we can’t use or teach?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://overengineer.dev/blog/2024/05/10/thread/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_todsacerdoti",
+        "story_40326269",
+        "front_page"
+      ],
+      "author": "todsacerdoti",
+      "children": [40326574, 40326575, 40326597, 40326608, 40326636, 40326741, 40326766, 40326941, 40326964, 40326969, 40326988, 40327031, 40327169, 40327758, 40328130, 40328180],
+      "created_at": "2024-05-11T05:51:18Z",
+      "created_at_i": 1715406678,
+      "num_comments": 75,
+      "objectID": "40326269",
+      "points": 242,
+      "story_id": 40326269,
+      "title": "Thread: Tech we can’t use or teach?",
+      "updated_at": "2024-05-11T14:42:26Z",
+      "url": "https://overengineer.dev/blog/2024/05/10/thread/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "avinassh"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Deno KV internals: building a database for the modern web"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://deno.com/blog/building-deno-kv"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_avinassh",
+        "story_40258903",
+        "front_page"
+      ],
+      "author": "avinassh",
+      "children": [40321320, 40321410, 40321431, 40321457, 40321827, 40322094, 40322095, 40322204, 40322321, 40323130, 40323160, 40323314, 40324117, 40324242, 40324445, 40325511, 40326561],
+      "created_at": "2024-05-04T17:01:25Z",
+      "created_at_i": 1714842085,
+      "num_comments": 76,
+      "objectID": "40258903",
+      "points": 209,
+      "story_id": 40258903,
+      "title": "Deno KV internals: building a database for the modern web",
+      "updated_at": "2024-05-11T14:44:58Z",
+      "url": "https://deno.com/blog/building-deno-kv"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "zdw"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Selling 'Ghost in the Shell'"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://animationobsessive.substack.com/p/selling-ghost-in-the-shell"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_zdw",
+        "story_40275328",
+        "front_page"
+      ],
+      "author": "zdw",
+      "children": [40316082, 40316136, 40316140, 40316226, 40316378, 40316430, 40316695, 40316722, 40316985, 40320588, 40324540, 40324783, 40327454],
+      "created_at": "2024-05-06T14:48:02Z",
+      "created_at_i": 1715006882,
+      "num_comments": 135,
+      "objectID": "40275328",
+      "points": 133,
+      "story_id": 40275328,
+      "title": "Selling 'Ghost in the Shell'",
+      "updated_at": "2024-05-11T14:46:28Z",
+      "url": "https://animationobsessive.substack.com/p/selling-ghost-in-the-shell"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "todsacerdoti"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Why the CORDIC algorithm lives rent-free in my head"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_todsacerdoti",
+        "story_40326563",
+        "front_page"
+      ],
+      "author": "todsacerdoti",
+      "children": [40327726, 40327886, 40327928],
+      "created_at": "2024-05-11T07:18:39Z",
+      "created_at_i": 1715411919,
+      "num_comments": 6,
+      "objectID": "40326563",
+      "points": 107,
+      "story_id": 40326563,
+      "title": "Why the CORDIC algorithm lives rent-free in my head",
+      "updated_at": "2024-05-11T14:45:43Z",
+      "url": "https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "todsacerdoti"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "So We've Got a Memory Leak"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://stevenharman.net/so-we-have-a-memory-leak"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_todsacerdoti",
+        "story_40315686",
+        "front_page"
+      ],
+      "author": "todsacerdoti",
+      "children": [40327225, 40327297, 40327610, 40327621, 40327791, 40327871, 40328183],
+      "created_at": "2024-05-10T05:14:14Z",
+      "created_at_i": 1715318054,
+      "num_comments": 33,
+      "objectID": "40315686",
+      "points": 103,
+      "story_id": 40315686,
+      "title": "So We've Got a Memory Leak",
+      "updated_at": "2024-05-11T14:45:43Z",
+      "url": "https://stevenharman.net/so-we-have-a-memory-leak"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gmays"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Nasa’s Roman Mission Will Hunt for Primordial Black Holes"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gmays",
+        "story_40313613",
+        "front_page"
+      ],
+      "author": "gmays",
+      "children": [40324017, 40324026, 40325145, 40325594, 40326862],
+      "created_at": "2024-05-09T22:33:44Z",
+      "created_at_i": 1715294024,
+      "num_comments": 44,
+      "objectID": "40313613",
+      "points": 101,
+      "story_id": 40313613,
+      "title": "Nasa’s Roman Mission Will Hunt for Primordial Black Holes",
+      "updated_at": "2024-05-11T14:38:28Z",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tempodox"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "The Derivative of a Number (2014)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://rjlipton.com/2014/08/19/the-derivative-of-a-number/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tempodox",
+        "story_40326305",
+        "front_page"
+      ],
+      "author": "tempodox",
+      "children": [40326511, 40326526, 40326904, 40326905, 40327222, 40327264, 40327544, 40327761, 40327885],
+      "created_at": "2024-05-11T06:03:58Z",
+      "created_at_i": 1715407438,
+      "num_comments": 51,
+      "objectID": "40326305",
+      "points": 83,
+      "story_id": 40326305,
+      "title": "The Derivative of a Number (2014)",
+      "updated_at": "2024-05-11T14:44:58Z",
+      "url": "https://rjlipton.com/2014/08/19/the-derivative-of-a-number/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mhb"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "You Can Hear the Temperature of Water"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mhb",
+        "story_40317629",
+        "front_page"
+      ],
+      "author": "mhb",
+      "children": [40317977, 40318203, 40321987, 40325728, 40326366, 40327256, 40327736, 40327762, 40327828, 40327861],
+      "created_at": "2024-05-10T11:22:34Z",
+      "created_at_i": 1715340154,
+      "num_comments": 34,
+      "objectID": "40317629",
+      "points": 81,
+      "story_id": 40317629,
+      "title": "You Can Hear the Temperature of Water",
+      "updated_at": "2024-05-11T14:46:28Z",
+      "url": "https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Nullence"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Howdy folk,\u003Cp\u003EI've been building this project as both a side project and my job for a little while now. The rationale behind it is while wireguard is a fantastic protocol cryptographically it leaves a lot to be desired when it comes to enrollment and end user device security.\u003Cp\u003EObviously instead of using an off the shelf solution like tailscale, I decided to reinvent the wheel which has honestly been quite fun with learning about eBPF, and recently clustering and HA with etcd!\u003Cp\u003EThe most recent version (in the docker container) contains about 6 months of very new work bringing it all from sqlite3 to etcd. So please be forgiving if it does some weird things!\u003Cp\u003EHope you all enjoy!\u003Cp\u003EP.s Im not a web developer and any tips on that front to make it less teeth pullingly awful are welcome!"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Wag, MFA and Enrollment for WireGuard"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/NHAS/wag"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Nullence",
+        "story_40326615",
+        "show_hn",
+        "front_page"
+      ],
+      "author": "Nullence",
+      "children": [40327404, 40327415, 40327450, 40327643, 40327924],
+      "created_at": "2024-05-11T07:31:23Z",
+      "created_at_i": 1715412683,
+      "num_comments": 17,
+      "objectID": "40326615",
+      "points": 66,
+      "story_id": 40326615,
+      "story_text": "Howdy folk,\u003Cp\u003EI&#x27;ve been building this project as both a side project and my job for a little while now. The rationale behind it is while wireguard is a fantastic protocol cryptographically it leaves a lot to be desired when it comes to enrollment and end user device security.\u003Cp\u003EObviously instead of using an off the shelf solution like tailscale, I decided to reinvent the wheel which has honestly been quite fun with learning about eBPF, and recently clustering and HA with etcd!\u003Cp\u003EThe most recent version (in the docker container) contains about 6 months of very new work bringing it all from sqlite3 to etcd. So please be forgiving if it does some weird things!\u003Cp\u003EHope you all enjoy!\u003Cp\u003EP.s Im not a web developer and any tips on that front to make it less teeth pullingly awful are welcome!",
+      "title": "Show HN: Wag, MFA and Enrollment for WireGuard",
+      "updated_at": "2024-05-11T14:46:28Z",
+      "url": "https://github.com/NHAS/wag"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aragonite"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Unix and Multics"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.multicians.org/unix.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aragonite",
+        "story_40315724",
+        "front_page"
+      ],
+      "author": "aragonite",
+      "children": [40327057, 40327239, 40327253, 40327817],
+      "created_at": "2024-05-10T05:25:26Z",
+      "created_at_i": 1715318726,
+      "num_comments": 26,
+      "objectID": "40315724",
+      "points": 57,
+      "story_id": 40315724,
+      "title": "Unix and Multics",
+      "updated_at": "2024-05-11T14:46:13Z",
+      "url": "https://www.multicians.org/unix.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ElCapitanMarkla"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "I'm reaching out for some creative suggestions. I have a 4-year-old and a 7-year-old attending preschool/school, and both sets of teachers have asked for ideas from parents for skills they could show or projects they could help with in the classroom.\u003Cp\u003EI have a background in computer science, primarily focused on web development these days. Additionally, I have loads of potentially useful toys at home, including a 3D printer, DIY CNC mill, webcams, Raspberry Pis, old laptops, etc.\u003Cp\u003EWhat are some engaging activities or projects I could bring to either level of the schools that would be both fun and educational for the kids? Particularly ideas we could do as a class vs breaking into smaller groups.\u003Cp\u003EI have had a couple of ideas so far\n- Processing based art interactive which the kids can suggest updates for and instantly see the changes.\n- Something RTLSDR based, so we can play with antennas and catch some radio waves.\u003Cp\u003ELooking forward to your creative ideas and suggestions, thank you."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Seeking Ideas for Preschool/School Projects"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ElCapitanMarkla",
+        "story_40292537",
+        "ask_hn",
+        "front_page"
+      ],
+      "author": "ElCapitanMarkla",
+      "children": [40300114, 40308545, 40326579, 40326584, 40326591, 40326793, 40326822, 40326836, 40326838, 40326887, 40327008, 40327072, 40327318, 40327321, 40327376, 40327494, 40327557, 40327611, 40327614, 40327668, 40327889, 40327905, 40328339, 40328360],
+      "created_at": "2024-05-07T23:04:30Z",
+      "created_at_i": 1715123070,
+      "num_comments": 30,
+      "objectID": "40292537",
+      "points": 50,
+      "story_id": 40292537,
+      "story_text": "I&#x27;m reaching out for some creative suggestions. I have a 4-year-old and a 7-year-old attending preschool&#x2F;school, and both sets of teachers have asked for ideas from parents for skills they could show or projects they could help with in the classroom.\u003Cp\u003EI have a background in computer science, primarily focused on web development these days. Additionally, I have loads of potentially useful toys at home, including a 3D printer, DIY CNC mill, webcams, Raspberry Pis, old laptops, etc.\u003Cp\u003EWhat are some engaging activities or projects I could bring to either level of the schools that would be both fun and educational for the kids? Particularly ideas we could do as a class vs breaking into smaller groups.\u003Cp\u003EI have had a couple of ideas so far\n- Processing based art interactive which the kids can suggest updates for and instantly see the changes.\n- Something RTLSDR based, so we can play with antennas and catch some radio waves.\u003Cp\u003ELooking forward to your creative ideas and suggestions, thank you.",
+      "title": "Seeking Ideas for Preschool/School Projects",
+      "updated_at": "2024-05-11T14:45:43Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "udev4096"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Unix Viruses 25th Anniversary Edition"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://tmpout.sh/3/03.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_udev4096",
+        "story_40327236",
+        "front_page"
+      ],
+      "author": "udev4096",
+      "children": [40327519, 40327794],
+      "created_at": "2024-05-11T10:21:03Z",
+      "created_at_i": 1715422863,
+      "num_comments": 2,
+      "objectID": "40327236",
+      "points": 41,
+      "story_id": 40327236,
+      "title": "Unix Viruses 25th Anniversary Edition",
+      "updated_at": "2024-05-11T14:44:58Z",
+      "url": "https://tmpout.sh/3/03.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "hoppyhoppy2"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "People who won't give up floppy disks"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_hoppyhoppy2",
+        "story_40327307",
+        "front_page"
+      ],
+      "author": "hoppyhoppy2",
+      "children": [40327363, 40327620, 40327655, 40327671, 40327694, 40327719, 40327731, 40327767, 40327777, 40327814, 40327892, 40328083, 40328172],
+      "created_at": "2024-05-11T10:41:22Z",
+      "created_at_i": 1715424082,
+      "num_comments": 38,
+      "objectID": "40327307",
+      "points": 39,
+      "story_id": 40327307,
+      "title": "People who won't give up floppy disks",
+      "updated_at": "2024-05-11T14:45:43Z",
+      "url": "https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "thunderbong"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "PeaZip: Open-source file compression and encryption software"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://peazip.github.io/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_thunderbong",
+        "story_40327631",
+        "front_page"
+      ],
+      "author": "thunderbong",
+      "children": [40327778, 40327947, 40327960, 40328266, 40328273, 40328366],
+      "created_at": "2024-05-11T12:19:00Z",
+      "created_at_i": 1715429940,
+      "num_comments": 19,
+      "objectID": "40327631",
+      "points": 37,
+      "story_id": 40327631,
+      "title": "PeaZip: Open-source file compression and encryption software",
+      "updated_at": "2024-05-11T14:46:13Z",
+      "url": "https://peazip.github.io/"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 30,
+  "nbPages": 2,
+  "page": 0,
+  "params": "tags=front_page&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 40,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 13
+    },
+    "afterFetch": {
+      "format": {
+        "total": 1
+      }
+    },
+    "getIdx": {
+      "load": {
+        "dicts": 1,
+        "gens": 1,
+        "synonyms": 34,
+        "total": 38
+      },
+      "total": 38
+    },
+    "total": 40
+  },
+  "query": "",
+  "serverTimeMS": 41
+}
