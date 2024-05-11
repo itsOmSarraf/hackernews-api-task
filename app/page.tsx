@@ -45,7 +45,15 @@ export default function Home() {
   const currentPosts = home.slice(indexOfFirstPost, indexOfLastPost);
 
   const paginate = (pageNumber: number) => setCurrentPage(pageNumber);
-
+  interface Hit {
+    objectID: string;
+    title: string;
+    author: string;
+    points: number;
+    num_comments: number;
+    url: string;
+    removeCard: () => void;
+  }
   return (
     <>
 
