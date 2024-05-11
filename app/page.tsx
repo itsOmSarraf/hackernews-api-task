@@ -11,7 +11,7 @@ export default function Home() {
   const [home, setHome] = useState([])
   const [loader, setLoader] = useState(true)
   useEffect(() => {
-    axios.get('http://hn.algolia.com/api/v1/search?tags=front_page').then(function (response) {
+    axios.get('https://hn.algolia.com/api/v1/search?tags=front_page').then(function (response) {
       // console.log(response.data.hits)
       setHome(response.data.hits)
       setLoader(false)
@@ -29,7 +29,7 @@ export default function Home() {
     if (event.key === "Enter") {
       const value = searchVal.trim();
       if (value) {
-        axios.get(`http://hn.algolia.com/api/v1/search?query=${value}&tags=story`).then(function (response) {
+        axios.get(`https://hn.algolia.com/api/v1/search?query=${value}&tags=story`).then(function (response) {
           setHome(response.data.hits);
         });
       }
