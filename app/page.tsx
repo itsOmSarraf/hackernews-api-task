@@ -19,9 +19,7 @@ export default function Home() {
     )
   }, [])
   const handleChange = (event: ChangeEvent<HTMLInputElement>) => {
-
     const inputValue = event.target.value;
-
     setSearchVal(inputValue);
 
   }
@@ -35,6 +33,10 @@ export default function Home() {
       }
     }
   };
+  const removeCard = (objectId: string) => {
+    const updatedHome = home.filter((hit: any) => hit.objectID !== objectId);
+    setHome(updatedHome);
+  };
   interface Hit {
     objectID: string;
     title: string;
@@ -42,6 +44,7 @@ export default function Home() {
     points: number;
     num_comments: number;
     url: string;
+    removeCard: () => void;
   }
   return (
     <>
@@ -52,22 +55,29 @@ export default function Home() {
             onChange={handleChange} onKeyDown={handleKeyPress}
             className="border border-gray-800 border-separate w-1/4 rounded-full py-2 px-5 min-w-56" />
         </div>
-        {loader ? (
-          <p>Loading...</p>
-        ) : (
-          <div className="flex flex-wrap justify-center gap-9">
-            {home.map((hits: Hit) => (
-              <Card
-                key={hits.objectID}
-                title={hits.title}
-                author={hits.author}
-                upVotes={hits.points}
-                commentsCount={hits.num_comments}
-                url={hits.url}
-              />
-            ))}
-          </div>
-        )}
+        {
+          loader ? (
+            <p>Loading...</p>
+          ) : (
+            home.length > 0 ? (
+              <div className="flex flex-wrap justify-center gap-9">
+                {home.map((hits: Hit) => (
+                  <Card
+                    key={hits.objectID}
+                    title={hits.title}
+                    author={hits.author}
+                    upVotes={hits.points}
+                    commentsCount={hits.num_comments}
+                    url={hits.url}
+                    removeCard={() => removeCard(hits.objectID)}
+                  />
+                ))}
+              </div>
+            ) : (
+              <p>Not Found</p>
+            )
+          )
+        }
       </div>
     </>
   )
