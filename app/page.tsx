@@ -8,8 +8,8 @@ export default function Home() {
   const [searchVal, setSearchVal] = useState("");
   const [home, setHome] = useState([]);
   const [loader, setLoader] = useState(true);
-  const [currentPage, setCurrentPage] = useState(1); // Add state for current page
-  const postsPerPage = 5; // Number of posts per page
+  const [currentPage, setCurrentPage] = useState(1);
+  const postsPerPage = 5;
 
   useEffect(() => {
     axios.get('https://hn.algolia.com/api/v1/search?tags=front_page')
