@@ -45,7 +45,7 @@ export default function Home() {
   }
   return (
     <>
-      <div className="flex flex-col w-full justify-center align-middle text-center">
+      <div className="flex flex-col w-full justify-center align-middle text-center py-2">
         <p className="text-7xl my-10">Hacker News Api</p>
         <div className="my-5">
           <input type="text" placeholder="Search Keywords" id="searchId" value={searchVal ?? ""}
