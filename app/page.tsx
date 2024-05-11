@@ -45,12 +45,12 @@ export default function Home() {
   }
   return (
     <>
-      <div className="flex flex-col w-full justify-center align-middle text-center py-2">
+      <div className="flex flex-col w-full justify-center align-middle text-center px-4">
         <p className="text-7xl my-10">Hacker News Api</p>
         <div className="my-5">
           <input type="text" placeholder="Search Keywords" id="searchId" value={searchVal ?? ""}
             onChange={handleChange} onKeyDown={handleKeyPress}
-            className="border border-gray-800 border-separate w-1/4 rounded-full py-2 px-5" />
+            className="border border-gray-800 border-separate w-1/4 rounded-full py-2 px-5 min-w-56" />
         </div>
         {loader ? (
           <p>Loading...</p>
